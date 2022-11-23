@@ -1,4 +1,4 @@
-import { api } from "@nitric/sdk";
+import { api, collection, bucket } from "@nitric/sdk";
 
 const bookApi = api('main');
 
